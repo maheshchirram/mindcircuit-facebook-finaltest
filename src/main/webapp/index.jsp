@@ -17,6 +17,6 @@
     </style>
 </head>
 <body>
-    <h1> THANK YOU TOMCAT IT IS WORKING FINE</h1>
+    <h1> THANK YOU TOMCAT IT IS WORKING FINE THIS IS AUTO DEPLOYMENT</h1>
 </body>
 </html>
