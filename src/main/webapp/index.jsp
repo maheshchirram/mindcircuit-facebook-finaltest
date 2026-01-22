@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome DevOps</title>
+    <title>THANK YOU TOMCAT IT IS WORKING FINE </title>
     <style>
         body {
             background: linear-gradient(to right, #ff8a00, #da1b60);
